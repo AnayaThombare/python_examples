@@ -17,4 +17,12 @@ if age >= 18:
 if age < 18:
   print("You are a minor.")
 
+count = 0
+
+while count <5:
+  
+  print("count is:,{count}")
+  count += 1 
+print("loop finished")
+
   
